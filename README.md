@@ -236,33 +236,36 @@ Bagian ini menjalankan program secara keseluruhan.
 Penjelasan source code:
 - GA() → memanggil fungsi utama
 
+Berikut Hasil
  
 OPTIMASI UANG JAJAN
 
-Gen   0 | Nilai kepuasan: 250
-Gen   5 | Nilai kepuasan: 250
-Gen  10 | Nilai kepuasan: 250
-Gen  15 | Nilai kepuasan: 250
-Gen  20 | Nilai kepuasan: 250
-Gen  25 | Nilai kepuasan: 250
-Gen  30 | Nilai kepuasan: 250
-Gen  35 | Nilai kepuasan: 250
-Gen  40 | Nilai kepuasan: 250
-Gen  45 | Nilai kepuasan: 250
-Gen  50 | Nilai kepuasan: 250
-Gen  55 | Nilai kepuasan: 250
-Gen  60 | Nilai kepuasan: 250
-Gen  65 | Nilai kepuasan: 250
-Gen  70 | Nilai kepuasan: 250
-Gen  75 | Nilai kepuasan: 250
-Gen  80 | Nilai kepuasan: 250
-Gen  85 | Nilai kepuasan: 250
-Gen  90 | Nilai kepuasan: 250
-Gen  95 | Nilai kepuasan: 250
+- Gen   0 | Nilai kepuasan: 250
+- Gen   5 | Nilai kepuasan: 250
+- Gen  10 | Nilai kepuasan: 250
+- Gen  15 | Nilai kepuasan: 250
+- Gen  20 | Nilai kepuasan: 250
+- Gen  25 | Nilai kepuasan: 250
+- Gen  30 | Nilai kepuasan: 250
+- Gen  35 | Nilai kepuasan: 250
+- Gen  40 | Nilai kepuasan: 250
+- Gen  45 | Nilai kepuasan: 250
+- Gen  50 | Nilai kepuasan: 250
+- Gen  55 | Nilai kepuasan: 250
+- Gen  60 | Nilai kepuasan: 250
+- Gen  65 | Nilai kepuasan: 250
+- Gen  70 | Nilai kepuasan: 250
+- Gen  75 | Nilai kepuasan: 250
+- Gen  80 | Nilai kepuasan: 250
+- Gen  85 | Nilai kepuasan: 250
+- Gen  90 | Nilai kepuasan: 250
+- Gen  95 | Nilai kepuasan: 250
 
 HASIL AKHIR 
+
 Pilihan: ['Makan', 'Kopi', 'Transport', 'Internet']
 Total biaya: 50000
 Total kepuasan: 250
 Penjelasan: Pengeluaran optimal sesuai budget.
+
 <img width="509" height="405" alt="image" src="https://github.com/user-attachments/assets/f44b57a9-a174-4c54-b44d-7ac0a1ddedf9" />
